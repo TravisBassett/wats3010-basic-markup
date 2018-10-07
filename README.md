@@ -1,4 +1,4 @@
-WATS 3010: Basic Markup
+MWATS 3010: Basic Markup
 =====================
 
 Welcome to the Basic Markup assignment from WATS 3010: Introduction to Web
